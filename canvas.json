@@ -1,0 +1,25 @@
+{
+  "name": "Painting Canvas",
+  "description": "A high-quality canvas suitable for acrylic and oil painting.",
+  "image": "https://5.imimg.com/data5/KP/TR/GG/SELLER-92598089/canvas-board.jpg",
+  "external_url": "https://example.com/painting-canvas",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Cotton"
+    },
+    {
+      "trait_type": "Size",
+      "value": "24x36 inches"
+    },
+    {
+      "trait_type": "Surface",
+      "value": "Stretched"
+    },
+    {
+      "trait_type": "Primed",
+      "value": "Yes"
+    }
+  ]
+}
+
