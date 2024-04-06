@@ -1,10 +1,10 @@
 {
-    "name": "Your NFT Name",
-    "description": "NFT Description",
-    "image": "image url",
+    "name": "Accessories",
+    "description": "Stationary NFT for Architecture students",
+    "image": "https://img.freepik.com/premium-photo/compass-drawing-stationary-wooden-table-concept-architecture-office-back-school-closeup-copy-space-text_34515-734.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
+            "trait_type": "Name",
             "value": "Trait Value"
         },
         {
